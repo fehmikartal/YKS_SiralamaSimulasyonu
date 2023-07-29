@@ -1,0 +1,11 @@
+boun pc / Yüzdesel: 303 / Sayısal: 303
+bilkent pc / Yüzdesel: 284 / Sayısal: 268
+odtü pc / Yüzdesel: 736 / Sayısal: 708
+itü pc / Yüzdesel: 763 / Sayısal: 537
+özyeğin pc / Yüzdesel: 940 / Sayısal: 781
+tobb pc / Yüzdesel: 1209 / Sayısal: 1097
+yeditepe pc / Yüzdesel: 1713 / Sayısal: 958
+galatasaray pc / Yüzdesel: 2253 / Sayısal: 1911
+hacettepe pc / Yüzdesel: 2437 / Sayısal: 1904
+itü yapayzeka / Yüzdesel: 994 / Sayısal: 511
+boun endüstri / Yüzdesel: 1297 / Sayısal: 1279
