@@ -4,7 +4,7 @@
  - **❗️ En yakın olduğu yıl olması açısından 2022 verileri daha sağlıklıdır. Yüzdesel sonuçlar sayısal sonuçlardan daha sağlıklıdır. "results.txt" dosyasına da 2022 verilerine göre yüzdesel sonuçlar kaydedilir ❗️**
  - Program sadece geçmiş yıllardaki yüzdelik değişimlere göre hesaplama yapar. Kesin sonuçlar vermez.
  - Veri girişi *"(üniversite adı / bölüm / 2022 / 2021 / 2020 / 2019)"* şeklindedir.
- Örnek veri girişi:
+ - Örnek veri girişi:
  ```
 itü pc 1179 1821 2450 2580
 ```
