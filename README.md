@@ -31,3 +31,9 @@ hacettepe pc / Yüzdesel: 2437 / Sayısal: 1904
 itü yapayzeka / Yüzdesel: 994 / Sayısal: 511
 boun endüstri / Yüzdesel: 1297 / Sayısal: 1279
 ```
+
+**2023 YKS** Sonuçlarına göre simülasyon:
+- İstanbul'daki yaşam pahalılığı ve deprem riski başta olmak üzere çeşitli risklerden dolayı İstanbul'da bulunan Bilgisayar Mühendisliği sıralamalarının sabit kalması / yükselmesi, test sonuçlarının yanılmasına yol açtı.
+- Bilgisayar Mühendisliği sıralamalarının aşırı yükselmesi nedeniyle çoğu kişinin tercih etmemesi, test sonuçlarının yanılmasına yol açtı.
+- Ancak Ankara'daki Bilkent, ODTÜ gibi üniversitelerde yakın sayılar tahmin edildi.
+- Tahmin - 2023 Sonucu arasındaki fark ODTÜ için sadece 8, Bilkent için ise sadece 26 oldu.
